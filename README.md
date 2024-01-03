@@ -6,8 +6,8 @@ I developed the "BodyShape IQ" project to provide users with a simple and intera
 - **Underweight:** Build Strength 💪<br>
 - **Healthy:** Optimal Balance ⚖️<br>
 - **Overweight:** Healthy Choices Ahead 🥦<br>
-- **Obese:** Transformation Time 🌟
-<br>
+- **Obese:** Transformation Time 🌟<br>
+
 **Key Features:**
 - Utilizes BMI categories for personalized health insights.<br>
 - Displays stylish HTML/CSS title and informative categories.<br>
